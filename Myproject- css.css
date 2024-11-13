@@ -1,0 +1,82 @@
+h1{
+    color:rgb(248, 255, 248);
+    margin-left:50px;
+    padding-right:80px;
+    margin-right:80px;
+    padding-bottom:50px;
+    margin-bottom:50px;
+ }
+ h2{
+    color:rgb(255, 255, 255);
+ }
+ img{
+   width:90%;
+   height: 50%;
+   padding-right:50px;
+   padding-left:50px;
+ }
+ button{
+    padding-top:50px;
+    padding-bottom:50px;
+    padding-left:50px;
+    padding-right:80px;
+    border-style:solid;
+    border-color:black;
+    text-align:right;
+    margin-left:90px;
+    margin-right:90px;
+    margin-top:90px;
+    width:200px;
+    background-image: url('My\ project-Background\ 1.jpg');
+ }
+ body{
+    color:rgb(255, 243, 243);
+    padding-top:200px;
+    padding-bottom:70px;
+    margin-top:70px;
+    margin-bottom:80px;
+    font-size:35px;
+    background-image: url('My\ project-Background\ 1.jpg') ;
+    background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+ }
+ a{
+    color:rgb(248, 255, 248);
+    padding-left:50px;
+    padding-right:50px;
+    padding-bottom:50px;
+    margin-top:50px;
+
+ }
+ a:hover{
+    color:rgb(20, 151, 20, 0.705);
+ }
+
+ p{
+    font-size: 50px;
+    color:rgb(248, 255, 248);
+ }
+ 
+ input[type="text"] {
+    width: 700px;
+    height:40px;
+ }
+ .checked{
+    width:15px;
+    height:15px;
+    
+ }
+ form{
+    color:rgb(248, 255, 248);
+ }
+ span:hover{
+       color: rgb(197, 137, 24);
+     }
+ input{
+    background-image: url('My\ project-Background\ 1.jpg');
+    color:azure;
+    border-style:solid;
+    border-color:azure;
+    border-width:5px;
+ }
